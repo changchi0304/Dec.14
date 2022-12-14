@@ -24,15 +24,6 @@ inputText.addEventListener('keypress',function(e){
     }
 });
 
-
-
-
-
-
-
-
-
-
 //渲染
 const todoList = document.getElementById('todoList');
 function reden(arr){
